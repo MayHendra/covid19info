@@ -1,0 +1,109 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-toggler {
+    border: none;
+    outline: none !important;
+}
+
+.nav-link {
+    text-align: end;
+}
+
+.dashboard {
+    margin-top: 6em;
+    margin-bottom: 5em;
+}
+
+.announce {
+    margin-bottom: 3em;
+}
+
+.covid-image {
+    border-radius: 5px;
+}
+
+.content {
+    background-color: whitesmoke;
+    border-radius: 5px;
+    max-height: 360px;
+    padding: 2em;
+}
+
+.covid-case {
+    padding-top: 1em;
+}
+
+.case {
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.second-page {
+    margin-bottom: 10em;
+}
+
+.judul {
+    margin-bottom: 3em;
+}
+
+.judul hr {
+    width: 15em;
+    border: 1px solid rgb(2, 12, 22);
+    opacity: 79%;
+}
+
+.card {
+    height: 14em;
+}
+
+.case-title {
+    font-size: 20px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.card-title {
+    font-size: 50px;
+}
+
+.info-page {
+    margin-bottom: 5em;
+}
+
+.hotline-card {
+    background-color: #EFEFEF;
+    color: black !important;
+    opacity: 80%;
+    height: 18em;
+}
+
+.hotline-title h2 {
+    font-weight: bold;
+    font-size: 25px;
+    padding: 15px 0 0 0;
+}
+
+.end-of-page {
+    margin-bottom: 2em;
+}
+
+.text-info-page {
+    margin-bottom: 4em;
+}
+
+.text-info-page h2 {
+    font-size: 18px;
+}
+
+footer {
+    width: 100%;
+    height: 12em;
+    background-color: #171920;
+    color: white;
+}
+
+footer h2 {
+    font-size: 25px;
+    padding-top: 3em;
+}
